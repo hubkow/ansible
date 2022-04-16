@@ -1,3 +1,9 @@
 [linux]
 ansible1@10.10.10.75
 ansible2@10.10.10.76
+
+[ansible1]
+ansible1@10.10.10.75
+
+[ansible2]
+ansible2@10.10.10.76
